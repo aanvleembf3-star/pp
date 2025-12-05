@@ -1,16 +1,6 @@
 <html>
     <script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=c4418727"></script>
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XS7X6X3J6H"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-XS7X6X3J6H');
-</script>
-<head>
-<style>
+    <style>
         .f-button-primary {
         			background-color: #D31965;
         			color: white;
@@ -328,6 +318,7 @@
 
 
 </html>
+
 
 
 

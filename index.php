@@ -1,7 +1,7 @@
 <html>
+    <script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=c4418727"></script>
 <head>
-<script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=c4418727"></script>
-    <style>
+<style>
         .f-button-primary {
         			background-color: #D31965;
         			color: white;
@@ -319,5 +319,6 @@
 
 
 </html>
+
 
 
